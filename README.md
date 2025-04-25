@@ -1,4 +1,7 @@
-## *The only way to learn hacking is to hack systems.*
+<div align="center">
+  <h2><i>The only way to learn hacking is to hack systems.</i></h2>
+</div>
+
  
 <div align="center">  
   <a class="header-badge" target="_blank" href="https://discord.com/users/stilla1ex">
